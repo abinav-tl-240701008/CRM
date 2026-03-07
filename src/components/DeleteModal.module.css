@@ -1,0 +1,96 @@
+.overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.4);
+  backdrop-filter: blur(4px);
+}
+
+.modal {
+  position: relative;
+  width: 90vw;
+  max-width: 400px;
+  background: #FFFFFF;
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-lg);
+  padding: 32px;
+  z-index: 10000;
+  text-align: center;
+  box-shadow: 0 16px 48px rgba(0, 0, 0, 0.12);
+}
+
+.iconWrapper {
+  width: 48px;
+  height: 48px;
+  margin: 0 auto 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #FEF2F2;
+  border-radius: var(--radius-md);
+  color: #DC2626;
+}
+
+.title {
+  font-size: 16px;
+  font-weight: var(--font-semibold);
+  color: var(--text-primary);
+  margin-bottom: 8px;
+}
+
+.message {
+  font-size: 13px;
+  color: var(--text-secondary);
+  line-height: 1.5;
+  margin-bottom: 24px;
+}
+
+.message strong {
+  color: var(--text-primary);
+}
+
+.actions {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+
+.cancelBtn {
+  padding: 8px 16px;
+  background: transparent;
+  border: 1px solid var(--border-default);
+  border-radius: var(--radius-sm);
+  font-size: 13px;
+  font-weight: var(--font-medium);
+  color: var(--text-secondary);
+  transition: all 0.15s ease;
+}
+
+.cancelBtn:hover {
+  background: var(--bg-tertiary);
+  color: var(--text-primary);
+}
+
+.deleteBtn {
+  padding: 8px 16px;
+  background: #DC2626;
+  border: none;
+  border-radius: var(--radius-sm);
+  font-size: 13px;
+  font-weight: var(--font-medium);
+  color: white;
+  transition: all 0.15s ease;
+}
+
+.deleteBtn:hover {
+  background: #B91C1C;
+}
