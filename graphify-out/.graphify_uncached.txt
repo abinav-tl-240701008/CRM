@@ -1,4 +1,0 @@
-/home/abinav/Projects/FlowCRM/USER_STORIES.md
-/home/abinav/Projects/FlowCRM/README.md
-/home/abinav/Projects/FlowCRM/public/vite.svg
-/home/abinav/Projects/FlowCRM/src/assets/react.svg
