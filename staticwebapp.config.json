@@ -1,6 +1,6 @@
 {
   "navigationFallback": {
-    "rewrite": "/landing/index.html",
+    "rewrite": "/index.html",
     "exclude": [
       "/assets/*",
       "/landing/*", 
@@ -11,7 +11,7 @@
   },
   "responseOverrides": {
     "404": {
-      "rewrite": "/landing/index.html",
+      "rewrite": "/index.html",
       "statusCode": 404
     }
   },
