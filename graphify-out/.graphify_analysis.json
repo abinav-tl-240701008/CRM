@@ -1,0 +1,226 @@
+{
+  "communities": {
+    "0": [
+      "home_abinav_projects_flowcrm_public_landing_script_js",
+      "script_animatechartbars",
+      "script_animatecounter",
+      "script_animatemockupcounter",
+      "script_closemobilemenu",
+      "script_initcounteranimations",
+      "script_initfaqaccordion",
+      "script_initleadcardanimations",
+      "script_initmobilemenu",
+      "script_initnavbar",
+      "script_initparallax",
+      "script_initpricingcardreveal",
+      "script_initpricingtoggle",
+      "script_initproducttour",
+      "script_initscrollanimations",
+      "script_inittestimonialscarousel",
+      "script_inittypingeffect"
+    ],
+    "1": [
+      "home_abinav_projects_flowcrm_src_pages_settings_tsx",
+      "settings_confirmcleardata",
+      "settings_handleaddstage",
+      "settings_handlecleardata",
+      "settings_handledragend",
+      "settings_handleexportdata",
+      "settings_handlemovestage",
+      "settings_handleremovestage",
+      "settings_handlesave",
+      "settings_handlestagechange"
+    ],
+    "2": [
+      "home_abinav_projects_flowcrm_src_pages_leads_tsx",
+      "leads_getavatarcolor",
+      "leads_getcompanyname",
+      "leads_handledeletelead",
+      "leads_handledeleteselected",
+      "leads_handlefileupload",
+      "leads_handleimport",
+      "leads_handleselectall",
+      "leads_handleselectlead"
+    ],
+    "3": [
+      "home_abinav_projects_flowcrm_src_utils_index_ts",
+      "index_formatcurrency",
+      "index_formatdate",
+      "index_generateid",
+      "index_getconversionrate",
+      "index_getinitials",
+      "index_getleadsbystage",
+      "index_gettotalvalue",
+      "index_parsecsv"
+    ],
+    "4": [
+      "home_abinav_projects_flowcrm_src_pages_tasks_tsx",
+      "tasks_getleadname",
+      "tasks_getprioritycolor",
+      "tasks_handleconfirmdelete",
+      "tasks_handledeleteclick",
+      "tasks_handleedit",
+      "tasks_handlesubmit",
+      "tasks_handletogglecomplete"
+    ],
+    "5": [
+      "crmcontext_crmprovider",
+      "crmcontext_tocamelactivity",
+      "crmcontext_tocamelcompany",
+      "crmcontext_tocamelcontact",
+      "crmcontext_tocamellead",
+      "crmcontext_tocameltask",
+      "crmcontext_usecrm",
+      "home_abinav_projects_flowcrm_src_store_crmcontext_tsx"
+    ],
+    "6": [
+      "companies_getavatarcolor",
+      "companies_getcompanyleads",
+      "companies_handleconfirmdelete",
+      "companies_handledeleteclick",
+      "companies_handleedit",
+      "companies_handlesubmit",
+      "home_abinav_projects_flowcrm_src_pages_companies_tsx"
+    ],
+    "7": [
+      "contacts_getavatarcolor",
+      "contacts_getcompanyname",
+      "contacts_handleconfirmdelete",
+      "contacts_handledeleteclick",
+      "contacts_handleedit",
+      "contacts_handlesubmit",
+      "home_abinav_projects_flowcrm_src_pages_contacts_tsx"
+    ],
+    "8": [
+      "dashboard_getactivitycolor",
+      "dashboard_getactivityicon",
+      "dashboard_getavatarcolor",
+      "dashboard_getcompanyname",
+      "dashboard_handleactivityclick",
+      "home_abinav_projects_flowcrm_src_pages_dashboard_tsx"
+    ],
+    "9": [
+      "globalsearch_getcompany",
+      "globalsearch_getcompanyname",
+      "globalsearch_handleclickoutside",
+      "globalsearch_handleresultclick",
+      "home_abinav_projects_flowcrm_src_components_globalsearch_tsx"
+    ],
+    "10": [
+      "home_abinav_projects_flowcrm_src_components_leadmodal_tsx",
+      "leadmodal_confirmdelete",
+      "leadmodal_handledelete",
+      "leadmodal_handlesubmit"
+    ],
+    "11": [
+      "home_abinav_projects_flowcrm_src_store_searchcontext_tsx",
+      "searchcontext_fuzzymatch",
+      "searchcontext_searchprovider",
+      "searchcontext_useglobalsearch"
+    ],
+    "12": [
+      "home_abinav_projects_flowcrm_src_pages_reports_tsx",
+      "reports_getavatarcolor",
+      "reports_handleexportpdf"
+    ],
+    "13": [
+      "authcontext_authprovider",
+      "authcontext_useauth",
+      "home_abinav_projects_flowcrm_src_store_authcontext_tsx"
+    ],
+    "14": [
+      "app_protectedroute",
+      "home_abinav_projects_flowcrm_src_app_tsx"
+    ],
+    "15": [
+      "home_abinav_projects_flowcrm_src_components_kanbanboard_tsx",
+      "kanbanboard_droppablecolumn"
+    ],
+    "16": [
+      "home_abinav_projects_flowcrm_src_components_layout_tsx",
+      "layout_layout"
+    ],
+    "17": [
+      "home_abinav_projects_flowcrm_src_components_leadcard_tsx",
+      "leadcard_getavatarcolor"
+    ],
+    "18": [
+      "home_abinav_projects_flowcrm_src_components_modal_tsx",
+      "modal_modal"
+    ],
+    "19": [
+      "home_abinav_projects_flowcrm_src_components_sidebar_tsx",
+      "sidebar_sidebar"
+    ],
+    "20": [
+      "deletemodal_handleconfirm",
+      "home_abinav_projects_flowcrm_src_components_deletemodal_tsx"
+    ],
+    "21": [
+      "home_abinav_projects_flowcrm_src_pages_pipeline_tsx",
+      "pipeline_getcompanyname"
+    ],
+    "22": [
+      "home_abinav_projects_flowcrm_src_pages_login_tsx",
+      "login_login"
+    ],
+    "23": [
+      "home_abinav_projects_flowcrm_eslint_config_js"
+    ],
+    "24": [
+      "home_abinav_projects_flowcrm_vite_config_ts"
+    ],
+    "25": [
+      "home_abinav_projects_flowcrm_src_main_tsx"
+    ],
+    "26": [
+      "home_abinav_projects_flowcrm_src_pages_landing_tsx"
+    ],
+    "27": [
+      "home_abinav_projects_flowcrm_src_lib_supabase_ts"
+    ],
+    "28": [
+      "home_abinav_projects_flowcrm_src_types_index_ts"
+    ]
+  },
+  "cohesion": {
+    "0": 0.12,
+    "1": 0.2,
+    "2": 0.22,
+    "3": 0.22,
+    "4": 0.25,
+    "5": 0.25,
+    "6": 0.29,
+    "7": 0.29,
+    "8": 0.33,
+    "9": 0.4,
+    "10": 0.5,
+    "11": 0.5,
+    "12": 0.67,
+    "13": 0.67,
+    "14": 1.0,
+    "15": 1.0,
+    "16": 1.0,
+    "17": 1.0,
+    "18": 1.0,
+    "19": 1.0,
+    "20": 1.0,
+    "21": 1.0,
+    "22": 1.0,
+    "23": 1.0,
+    "24": 1.0,
+    "25": 1.0,
+    "26": 1.0,
+    "27": 1.0,
+    "28": 1.0
+  },
+  "gods": [],
+  "surprises": [],
+  "questions": [
+    {
+      "type": "low_cohesion",
+      "question": "Should `Community 0` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.12 - nodes in this community are weakly interconnected."
+    }
+  ]
+}

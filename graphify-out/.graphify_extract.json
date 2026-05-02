@@ -1,0 +1,3280 @@
+{
+  "nodes": [
+    {
+      "id": "home_abinav_projects_flowcrm_eslint_config_js",
+      "label": "eslint.config.js",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/eslint.config.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "home_abinav_projects_flowcrm_vite_config_ts",
+      "label": "vite.config.ts",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/vite.config.ts",
+      "source_location": "L1"
+    },
+    {
+      "id": "home_abinav_projects_flowcrm_public_landing_script_js",
+      "label": "script.js",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/public/landing/script.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "script_initnavbar",
+      "label": "initNavbar()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/public/landing/script.js",
+      "source_location": "L19"
+    },
+    {
+      "id": "script_initmobilemenu",
+      "label": "initMobileMenu()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/public/landing/script.js",
+      "source_location": "L63"
+    },
+    {
+      "id": "script_closemobilemenu",
+      "label": "closeMobileMenu()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/public/landing/script.js",
+      "source_location": "L81"
+    },
+    {
+      "id": "script_initproducttour",
+      "label": "initProductTour()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/public/landing/script.js",
+      "source_location": "L95"
+    },
+    {
+      "id": "script_inittestimonialscarousel",
+      "label": "initTestimonialsCarousel()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/public/landing/script.js",
+      "source_location": "L124"
+    },
+    {
+      "id": "script_initfaqaccordion",
+      "label": "initFAQAccordion()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/public/landing/script.js",
+      "source_location": "L219"
+    },
+    {
+      "id": "script_initpricingtoggle",
+      "label": "initPricingToggle()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/public/landing/script.js",
+      "source_location": "L242"
+    },
+    {
+      "id": "script_initscrollanimations",
+      "label": "initScrollAnimations()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/public/landing/script.js",
+      "source_location": "L284"
+    },
+    {
+      "id": "script_initcounteranimations",
+      "label": "initCounterAnimations()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/public/landing/script.js",
+      "source_location": "L310"
+    },
+    {
+      "id": "script_animatecounter",
+      "label": "animateCounter()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/public/landing/script.js",
+      "source_location": "L342"
+    },
+    {
+      "id": "script_initleadcardanimations",
+      "label": "initLeadCardAnimations()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/public/landing/script.js",
+      "source_location": "L369"
+    },
+    {
+      "id": "script_animatemockupcounter",
+      "label": "animateMockupCounter()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/public/landing/script.js",
+      "source_location": "L392"
+    },
+    {
+      "id": "script_initparallax",
+      "label": "initParallax()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/public/landing/script.js",
+      "source_location": "L418"
+    },
+    {
+      "id": "script_animatechartbars",
+      "label": "animateChartBars()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/public/landing/script.js",
+      "source_location": "L437"
+    },
+    {
+      "id": "script_initpricingcardreveal",
+      "label": "initPricingCardReveal()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/public/landing/script.js",
+      "source_location": "L469"
+    },
+    {
+      "id": "script_inittypingeffect",
+      "label": "initTypingEffect()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/public/landing/script.js",
+      "source_location": "L498"
+    },
+    {
+      "id": "home_abinav_projects_flowcrm_src_app_tsx",
+      "label": "App.tsx",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/App.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "app_protectedroute",
+      "label": "ProtectedRoute()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/App.tsx",
+      "source_location": "L18"
+    },
+    {
+      "id": "home_abinav_projects_flowcrm_src_main_tsx",
+      "label": "main.tsx",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/main.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "home_abinav_projects_flowcrm_src_components_kanbanboard_tsx",
+      "label": "KanbanBoard.tsx",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/KanbanBoard.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "kanbanboard_droppablecolumn",
+      "label": "DroppableColumn()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/KanbanBoard.tsx",
+      "source_location": "L34"
+    },
+    {
+      "id": "home_abinav_projects_flowcrm_src_components_layout_tsx",
+      "label": "Layout.tsx",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/Layout.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "layout_layout",
+      "label": "Layout()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/Layout.tsx",
+      "source_location": "L11"
+    },
+    {
+      "id": "home_abinav_projects_flowcrm_src_components_leadcard_tsx",
+      "label": "LeadCard.tsx",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/LeadCard.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "leadcard_getavatarcolor",
+      "label": "getAvatarColor()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/LeadCard.tsx",
+      "source_location": "L20"
+    },
+    {
+      "id": "home_abinav_projects_flowcrm_src_components_modal_tsx",
+      "label": "Modal.tsx",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/Modal.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "modal_modal",
+      "label": "Modal()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/Modal.tsx",
+      "source_location": "L14"
+    },
+    {
+      "id": "home_abinav_projects_flowcrm_src_components_sidebar_tsx",
+      "label": "Sidebar.tsx",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/Sidebar.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "sidebar_sidebar",
+      "label": "Sidebar()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/Sidebar.tsx",
+      "source_location": "L35"
+    },
+    {
+      "id": "home_abinav_projects_flowcrm_src_components_leadmodal_tsx",
+      "label": "LeadModal.tsx",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/LeadModal.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "leadmodal_handlesubmit",
+      "label": "handleSubmit()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/LeadModal.tsx",
+      "source_location": "L53"
+    },
+    {
+      "id": "leadmodal_handledelete",
+      "label": "handleDelete()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/LeadModal.tsx",
+      "source_location": "L83"
+    },
+    {
+      "id": "leadmodal_confirmdelete",
+      "label": "confirmDelete()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/LeadModal.tsx",
+      "source_location": "L87"
+    },
+    {
+      "id": "home_abinav_projects_flowcrm_src_components_deletemodal_tsx",
+      "label": "DeleteModal.tsx",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/DeleteModal.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "deletemodal_handleconfirm",
+      "label": "handleConfirm()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/DeleteModal.tsx",
+      "source_location": "L16"
+    },
+    {
+      "id": "home_abinav_projects_flowcrm_src_components_globalsearch_tsx",
+      "label": "GlobalSearch.tsx",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/GlobalSearch.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "globalsearch_getcompanyname",
+      "label": "getCompanyName()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/GlobalSearch.tsx",
+      "source_location": "L25"
+    },
+    {
+      "id": "globalsearch_getcompany",
+      "label": "getCompany()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/GlobalSearch.tsx",
+      "source_location": "L30"
+    },
+    {
+      "id": "globalsearch_handleclickoutside",
+      "label": "handleClickOutside()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/GlobalSearch.tsx",
+      "source_location": "L37"
+    },
+    {
+      "id": "globalsearch_handleresultclick",
+      "label": "handleResultClick()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/GlobalSearch.tsx",
+      "source_location": "L47"
+    },
+    {
+      "id": "home_abinav_projects_flowcrm_src_pages_companies_tsx",
+      "label": "Companies.tsx",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Companies.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "companies_getavatarcolor",
+      "label": "getAvatarColor()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Companies.tsx",
+      "source_location": "L22"
+    },
+    {
+      "id": "companies_getcompanyleads",
+      "label": "getCompanyLeads()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Companies.tsx",
+      "source_location": "L45"
+    },
+    {
+      "id": "companies_handlesubmit",
+      "label": "handleSubmit()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Companies.tsx",
+      "source_location": "L49"
+    },
+    {
+      "id": "companies_handleedit",
+      "label": "handleEdit()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Companies.tsx",
+      "source_location": "L63"
+    },
+    {
+      "id": "companies_handledeleteclick",
+      "label": "handleDeleteClick()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Companies.tsx",
+      "source_location": "L76"
+    },
+    {
+      "id": "companies_handleconfirmdelete",
+      "label": "handleConfirmDelete()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Companies.tsx",
+      "source_location": "L80"
+    },
+    {
+      "id": "home_abinav_projects_flowcrm_src_pages_leads_tsx",
+      "label": "Leads.tsx",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Leads.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "leads_getavatarcolor",
+      "label": "getAvatarColor()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Leads.tsx",
+      "source_location": "L28"
+    },
+    {
+      "id": "leads_getcompanyname",
+      "label": "getCompanyName()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Leads.tsx",
+      "source_location": "L54"
+    },
+    {
+      "id": "leads_handleselectlead",
+      "label": "handleSelectLead()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Leads.tsx",
+      "source_location": "L69"
+    },
+    {
+      "id": "leads_handleselectall",
+      "label": "handleSelectAll()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Leads.tsx",
+      "source_location": "L79"
+    },
+    {
+      "id": "leads_handledeleteselected",
+      "label": "handleDeleteSelected()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Leads.tsx",
+      "source_location": "L87"
+    },
+    {
+      "id": "leads_handledeletelead",
+      "label": "handleDeleteLead()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Leads.tsx",
+      "source_location": "L94"
+    },
+    {
+      "id": "leads_handleimport",
+      "label": "handleImport()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Leads.tsx",
+      "source_location": "L101"
+    },
+    {
+      "id": "leads_handlefileupload",
+      "label": "handleFileUpload()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Leads.tsx",
+      "source_location": "L114"
+    },
+    {
+      "id": "home_abinav_projects_flowcrm_src_pages_settings_tsx",
+      "label": "Settings.tsx",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Settings.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "settings_handleexportdata",
+      "label": "handleExportData()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Settings.tsx",
+      "source_location": "L151"
+    },
+    {
+      "id": "settings_handlecleardata",
+      "label": "handleClearData()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Settings.tsx",
+      "source_location": "L162"
+    },
+    {
+      "id": "settings_confirmcleardata",
+      "label": "confirmClearData()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Settings.tsx",
+      "source_location": "L166"
+    },
+    {
+      "id": "settings_handlesave",
+      "label": "handleSave()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Settings.tsx",
+      "source_location": "L171"
+    },
+    {
+      "id": "settings_handlestagechange",
+      "label": "handleStageChange()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Settings.tsx",
+      "source_location": "L177"
+    },
+    {
+      "id": "settings_handleaddstage",
+      "label": "handleAddStage()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Settings.tsx",
+      "source_location": "L183"
+    },
+    {
+      "id": "settings_handleremovestage",
+      "label": "handleRemoveStage()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Settings.tsx",
+      "source_location": "L196"
+    },
+    {
+      "id": "settings_handlemovestage",
+      "label": "handleMoveStage()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Settings.tsx",
+      "source_location": "L202"
+    },
+    {
+      "id": "settings_handledragend",
+      "label": "handleDragEnd()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Settings.tsx",
+      "source_location": "L216"
+    },
+    {
+      "id": "home_abinav_projects_flowcrm_src_pages_dashboard_tsx",
+      "label": "Dashboard.tsx",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Dashboard.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "dashboard_getavatarcolor",
+      "label": "getAvatarColor()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Dashboard.tsx",
+      "source_location": "L33"
+    },
+    {
+      "id": "dashboard_getcompanyname",
+      "label": "getCompanyName()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Dashboard.tsx",
+      "source_location": "L69"
+    },
+    {
+      "id": "dashboard_handleactivityclick",
+      "label": "handleActivityClick()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Dashboard.tsx",
+      "source_location": "L127"
+    },
+    {
+      "id": "dashboard_getactivityicon",
+      "label": "getActivityIcon()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Dashboard.tsx",
+      "source_location": "L137"
+    },
+    {
+      "id": "dashboard_getactivitycolor",
+      "label": "getActivityColor()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Dashboard.tsx",
+      "source_location": "L148"
+    },
+    {
+      "id": "home_abinav_projects_flowcrm_src_pages_pipeline_tsx",
+      "label": "Pipeline.tsx",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Pipeline.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "pipeline_getcompanyname",
+      "label": "getCompanyName()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Pipeline.tsx",
+      "source_location": "L22"
+    },
+    {
+      "id": "home_abinav_projects_flowcrm_src_pages_landing_tsx",
+      "label": "Landing.tsx",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Landing.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "home_abinav_projects_flowcrm_src_pages_contacts_tsx",
+      "label": "Contacts.tsx",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Contacts.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "contacts_getavatarcolor",
+      "label": "getAvatarColor()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Contacts.tsx",
+      "source_location": "L20"
+    },
+    {
+      "id": "contacts_getcompanyname",
+      "label": "getCompanyName()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Contacts.tsx",
+      "source_location": "L44"
+    },
+    {
+      "id": "contacts_handlesubmit",
+      "label": "handleSubmit()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Contacts.tsx",
+      "source_location": "L49"
+    },
+    {
+      "id": "contacts_handleedit",
+      "label": "handleEdit()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Contacts.tsx",
+      "source_location": "L63"
+    },
+    {
+      "id": "contacts_handledeleteclick",
+      "label": "handleDeleteClick()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Contacts.tsx",
+      "source_location": "L75"
+    },
+    {
+      "id": "contacts_handleconfirmdelete",
+      "label": "handleConfirmDelete()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Contacts.tsx",
+      "source_location": "L79"
+    },
+    {
+      "id": "home_abinav_projects_flowcrm_src_pages_tasks_tsx",
+      "label": "Tasks.tsx",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Tasks.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "tasks_getleadname",
+      "label": "getLeadName()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Tasks.tsx",
+      "source_location": "L34"
+    },
+    {
+      "id": "tasks_handlesubmit",
+      "label": "handleSubmit()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Tasks.tsx",
+      "source_location": "L39"
+    },
+    {
+      "id": "tasks_handleedit",
+      "label": "handleEdit()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Tasks.tsx",
+      "source_location": "L59"
+    },
+    {
+      "id": "tasks_handletogglecomplete",
+      "label": "handleToggleComplete()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Tasks.tsx",
+      "source_location": "L71"
+    },
+    {
+      "id": "tasks_handledeleteclick",
+      "label": "handleDeleteClick()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Tasks.tsx",
+      "source_location": "L75"
+    },
+    {
+      "id": "tasks_handleconfirmdelete",
+      "label": "handleConfirmDelete()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Tasks.tsx",
+      "source_location": "L79"
+    },
+    {
+      "id": "tasks_getprioritycolor",
+      "label": "getPriorityColor()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Tasks.tsx",
+      "source_location": "L86"
+    },
+    {
+      "id": "home_abinav_projects_flowcrm_src_pages_reports_tsx",
+      "label": "Reports.tsx",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Reports.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "reports_getavatarcolor",
+      "label": "getAvatarColor()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Reports.tsx",
+      "source_location": "L17"
+    },
+    {
+      "id": "reports_handleexportpdf",
+      "label": "handleExportPDF()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Reports.tsx",
+      "source_location": "L26"
+    },
+    {
+      "id": "home_abinav_projects_flowcrm_src_pages_login_tsx",
+      "label": "Login.tsx",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Login.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "login_login",
+      "label": "Login()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Login.tsx",
+      "source_location": "L9"
+    },
+    {
+      "id": "home_abinav_projects_flowcrm_src_lib_supabase_ts",
+      "label": "supabase.ts",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/lib/supabase.ts",
+      "source_location": "L1"
+    },
+    {
+      "id": "home_abinav_projects_flowcrm_src_types_index_ts",
+      "label": "index.ts",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/types/index.ts",
+      "source_location": "L1"
+    },
+    {
+      "id": "home_abinav_projects_flowcrm_src_store_crmcontext_tsx",
+      "label": "CRMContext.tsx",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/store/CRMContext.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "crmcontext_tocamelcompany",
+      "label": "toCamelCompany()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/store/CRMContext.tsx",
+      "source_location": "L37"
+    },
+    {
+      "id": "crmcontext_tocamelcontact",
+      "label": "toCamelContact()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/store/CRMContext.tsx",
+      "source_location": "L38"
+    },
+    {
+      "id": "crmcontext_tocamellead",
+      "label": "toCamelLead()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/store/CRMContext.tsx",
+      "source_location": "L39"
+    },
+    {
+      "id": "crmcontext_tocameltask",
+      "label": "toCamelTask()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/store/CRMContext.tsx",
+      "source_location": "L40"
+    },
+    {
+      "id": "crmcontext_tocamelactivity",
+      "label": "toCamelActivity()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/store/CRMContext.tsx",
+      "source_location": "L41"
+    },
+    {
+      "id": "crmcontext_crmprovider",
+      "label": "CRMProvider()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/store/CRMContext.tsx",
+      "source_location": "L43"
+    },
+    {
+      "id": "crmcontext_usecrm",
+      "label": "useCRM()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/store/CRMContext.tsx",
+      "source_location": "L267"
+    },
+    {
+      "id": "home_abinav_projects_flowcrm_src_store_searchcontext_tsx",
+      "label": "SearchContext.tsx",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/store/SearchContext.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "searchcontext_searchprovider",
+      "label": "SearchProvider()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/store/SearchContext.tsx",
+      "source_location": "L19"
+    },
+    {
+      "id": "searchcontext_fuzzymatch",
+      "label": "fuzzyMatch()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/store/SearchContext.tsx",
+      "source_location": "L104"
+    },
+    {
+      "id": "searchcontext_useglobalsearch",
+      "label": "useGlobalSearch()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/store/SearchContext.tsx",
+      "source_location": "L118"
+    },
+    {
+      "id": "home_abinav_projects_flowcrm_src_store_authcontext_tsx",
+      "label": "AuthContext.tsx",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/store/AuthContext.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "authcontext_authprovider",
+      "label": "AuthProvider()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/store/AuthContext.tsx",
+      "source_location": "L14"
+    },
+    {
+      "id": "authcontext_useauth",
+      "label": "useAuth()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/store/AuthContext.tsx",
+      "source_location": "L50"
+    },
+    {
+      "id": "home_abinav_projects_flowcrm_src_utils_index_ts",
+      "label": "index.ts",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/utils/index.ts",
+      "source_location": "L1"
+    },
+    {
+      "id": "index_getinitials",
+      "label": "getInitials()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/utils/index.ts",
+      "source_location": "L3"
+    },
+    {
+      "id": "index_formatcurrency",
+      "label": "formatCurrency()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/utils/index.ts",
+      "source_location": "L12"
+    },
+    {
+      "id": "index_formatdate",
+      "label": "formatDate()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/utils/index.ts",
+      "source_location": "L21"
+    },
+    {
+      "id": "index_getleadsbystage",
+      "label": "getLeadsByStage()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/utils/index.ts",
+      "source_location": "L34"
+    },
+    {
+      "id": "index_gettotalvalue",
+      "label": "getTotalValue()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/utils/index.ts",
+      "source_location": "L38"
+    },
+    {
+      "id": "index_getconversionrate",
+      "label": "getConversionRate()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/utils/index.ts",
+      "source_location": "L42"
+    },
+    {
+      "id": "index_parsecsv",
+      "label": "parseCSV()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/utils/index.ts",
+      "source_location": "L48"
+    },
+    {
+      "id": "index_generateid",
+      "label": "generateId()",
+      "file_type": "code",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/utils/index.ts",
+      "source_location": "L83"
+    }
+  ],
+  "edges": [
+    {
+      "source": "home_abinav_projects_flowcrm_eslint_config_js",
+      "target": "js",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/eslint.config.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_eslint_config_js",
+      "target": "globals",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/eslint.config.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_eslint_config_js",
+      "target": "eslint_plugin_react_hooks",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/eslint.config.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_eslint_config_js",
+      "target": "eslint_plugin_react_refresh",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/eslint.config.js",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_eslint_config_js",
+      "target": "typescript_eslint",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/eslint.config.js",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_eslint_config_js",
+      "target": "config",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/eslint.config.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_vite_config_ts",
+      "target": "vite",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/vite.config.ts",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_vite_config_ts",
+      "target": "plugin_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/vite.config.ts",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_public_landing_script_js",
+      "target": "script_initnavbar",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/public/landing/script.js",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_public_landing_script_js",
+      "target": "script_initmobilemenu",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/public/landing/script.js",
+      "source_location": "L63",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_public_landing_script_js",
+      "target": "script_closemobilemenu",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/public/landing/script.js",
+      "source_location": "L81",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_public_landing_script_js",
+      "target": "script_initproducttour",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/public/landing/script.js",
+      "source_location": "L95",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_public_landing_script_js",
+      "target": "script_inittestimonialscarousel",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/public/landing/script.js",
+      "source_location": "L124",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_public_landing_script_js",
+      "target": "script_initfaqaccordion",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/public/landing/script.js",
+      "source_location": "L219",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_public_landing_script_js",
+      "target": "script_initpricingtoggle",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/public/landing/script.js",
+      "source_location": "L242",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_public_landing_script_js",
+      "target": "script_initscrollanimations",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/public/landing/script.js",
+      "source_location": "L284",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_public_landing_script_js",
+      "target": "script_initcounteranimations",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/public/landing/script.js",
+      "source_location": "L310",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_public_landing_script_js",
+      "target": "script_animatecounter",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/public/landing/script.js",
+      "source_location": "L342",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_public_landing_script_js",
+      "target": "script_initleadcardanimations",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/public/landing/script.js",
+      "source_location": "L369",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_public_landing_script_js",
+      "target": "script_animatemockupcounter",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/public/landing/script.js",
+      "source_location": "L392",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_public_landing_script_js",
+      "target": "script_initparallax",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/public/landing/script.js",
+      "source_location": "L418",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_public_landing_script_js",
+      "target": "script_animatechartbars",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/public/landing/script.js",
+      "source_location": "L437",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_public_landing_script_js",
+      "target": "script_initpricingcardreveal",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/public/landing/script.js",
+      "source_location": "L469",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_public_landing_script_js",
+      "target": "script_inittypingeffect",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/public/landing/script.js",
+      "source_location": "L498",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_app_tsx",
+      "target": "react_router_dom",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/App.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_app_tsx",
+      "target": "crmcontext",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/App.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_app_tsx",
+      "target": "searchcontext",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/App.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_app_tsx",
+      "target": "authcontext",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/App.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_app_tsx",
+      "target": "layout",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/App.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_app_tsx",
+      "target": "dashboard",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/App.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_app_tsx",
+      "target": "pipeline",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/App.tsx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_app_tsx",
+      "target": "leads",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/App.tsx",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_app_tsx",
+      "target": "companies",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/App.tsx",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_app_tsx",
+      "target": "contacts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/App.tsx",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_app_tsx",
+      "target": "tasks",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/App.tsx",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_app_tsx",
+      "target": "reports",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/App.tsx",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_app_tsx",
+      "target": "settings",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/App.tsx",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_app_tsx",
+      "target": "login",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/App.tsx",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_app_tsx",
+      "target": "landing",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/App.tsx",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_app_tsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/App.tsx",
+      "source_location": "L16",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_app_tsx",
+      "target": "app_protectedroute",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/App.tsx",
+      "source_location": "L18",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_main_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/main.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_main_tsx",
+      "target": "client",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/main.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_main_tsx",
+      "target": "index_css",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/main.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_main_tsx",
+      "target": "app_tsx",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/main.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_kanbanboard_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/KanbanBoard.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_kanbanboard_tsx",
+      "target": "core",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/KanbanBoard.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_kanbanboard_tsx",
+      "target": "sortable",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/KanbanBoard.tsx",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_kanbanboard_tsx",
+      "target": "utilities",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/KanbanBoard.tsx",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_kanbanboard_tsx",
+      "target": "framer_motion",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/KanbanBoard.tsx",
+      "source_location": "L20",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_kanbanboard_tsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/KanbanBoard.tsx",
+      "source_location": "L21",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_kanbanboard_tsx",
+      "target": "types",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/KanbanBoard.tsx",
+      "source_location": "L22",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_kanbanboard_tsx",
+      "target": "crmcontext",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/KanbanBoard.tsx",
+      "source_location": "L23",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_kanbanboard_tsx",
+      "target": "leadcard",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/KanbanBoard.tsx",
+      "source_location": "L24",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_kanbanboard_tsx",
+      "target": "leadmodal",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/KanbanBoard.tsx",
+      "source_location": "L25",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_kanbanboard_tsx",
+      "target": "kanbanboard_module_css",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/KanbanBoard.tsx",
+      "source_location": "L26",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_kanbanboard_tsx",
+      "target": "kanbanboard_droppablecolumn",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/KanbanBoard.tsx",
+      "source_location": "L34",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_layout_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/Layout.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_layout_tsx",
+      "target": "framer_motion",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/Layout.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_layout_tsx",
+      "target": "sidebar",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/Layout.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_layout_tsx",
+      "target": "crmcontext",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/Layout.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_layout_tsx",
+      "target": "layout_module_css",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/Layout.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_layout_tsx",
+      "target": "layout_layout",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/Layout.tsx",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_leadcard_tsx",
+      "target": "framer_motion",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/LeadCard.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_leadcard_tsx",
+      "target": "sortable",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/LeadCard.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_leadcard_tsx",
+      "target": "utilities",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/LeadCard.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_leadcard_tsx",
+      "target": "types",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/LeadCard.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_leadcard_tsx",
+      "target": "crmcontext",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/LeadCard.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_leadcard_tsx",
+      "target": "utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/LeadCard.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_leadcard_tsx",
+      "target": "leadcard_module_css",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/LeadCard.tsx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_leadcard_tsx",
+      "target": "leadcard_getavatarcolor",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/LeadCard.tsx",
+      "source_location": "L20",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_modal_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/Modal.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_modal_tsx",
+      "target": "framer_motion",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/Modal.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_modal_tsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/Modal.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_modal_tsx",
+      "target": "modal_module_css",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/Modal.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_modal_tsx",
+      "target": "modal_modal",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/Modal.tsx",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_sidebar_tsx",
+      "target": "react_router_dom",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/Sidebar.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_sidebar_tsx",
+      "target": "framer_motion",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/Sidebar.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_sidebar_tsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/Sidebar.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_sidebar_tsx",
+      "target": "crmcontext",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/Sidebar.tsx",
+      "source_location": "L17",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_sidebar_tsx",
+      "target": "authcontext",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/Sidebar.tsx",
+      "source_location": "L18",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_sidebar_tsx",
+      "target": "sidebar_module_css",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/Sidebar.tsx",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_sidebar_tsx",
+      "target": "sidebar_sidebar",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/Sidebar.tsx",
+      "source_location": "L35",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_leadmodal_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/LeadModal.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_leadmodal_tsx",
+      "target": "framer_motion",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/LeadModal.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_leadmodal_tsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/LeadModal.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_leadmodal_tsx",
+      "target": "types",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/LeadModal.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_leadmodal_tsx",
+      "target": "crmcontext",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/LeadModal.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_leadmodal_tsx",
+      "target": "modal",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/LeadModal.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_leadmodal_tsx",
+      "target": "deletemodal",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/LeadModal.tsx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_leadmodal_tsx",
+      "target": "leadmodal_module_css",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/LeadModal.tsx",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_leadmodal_tsx",
+      "target": "leadmodal_handlesubmit",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/LeadModal.tsx",
+      "source_location": "L53",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_leadmodal_tsx",
+      "target": "leadmodal_handledelete",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/LeadModal.tsx",
+      "source_location": "L83",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_leadmodal_tsx",
+      "target": "leadmodal_confirmdelete",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/LeadModal.tsx",
+      "source_location": "L87",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_deletemodal_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/DeleteModal.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_deletemodal_tsx",
+      "target": "framer_motion",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/DeleteModal.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_deletemodal_tsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/DeleteModal.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_deletemodal_tsx",
+      "target": "deletemodal_module_css",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/DeleteModal.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_deletemodal_tsx",
+      "target": "deletemodal_handleconfirm",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/DeleteModal.tsx",
+      "source_location": "L16",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_globalsearch_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/GlobalSearch.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_globalsearch_tsx",
+      "target": "framer_motion",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/GlobalSearch.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_globalsearch_tsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/GlobalSearch.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_globalsearch_tsx",
+      "target": "searchcontext",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/GlobalSearch.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_globalsearch_tsx",
+      "target": "crmcontext",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/GlobalSearch.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_globalsearch_tsx",
+      "target": "globalsearch_module_css",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/GlobalSearch.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_globalsearch_tsx",
+      "target": "globalsearch_getcompanyname",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/GlobalSearch.tsx",
+      "source_location": "L25",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_globalsearch_tsx",
+      "target": "globalsearch_getcompany",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/GlobalSearch.tsx",
+      "source_location": "L30",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_globalsearch_tsx",
+      "target": "globalsearch_handleclickoutside",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/GlobalSearch.tsx",
+      "source_location": "L37",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_components_globalsearch_tsx",
+      "target": "globalsearch_handleresultclick",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/components/GlobalSearch.tsx",
+      "source_location": "L47",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_companies_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Companies.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_companies_tsx",
+      "target": "framer_motion",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Companies.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_companies_tsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Companies.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_companies_tsx",
+      "target": "crmcontext",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Companies.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_companies_tsx",
+      "target": "searchcontext",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Companies.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_companies_tsx",
+      "target": "types",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Companies.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_companies_tsx",
+      "target": "utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Companies.tsx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_companies_tsx",
+      "target": "modal",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Companies.tsx",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_companies_tsx",
+      "target": "deletemodal",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Companies.tsx",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_companies_tsx",
+      "target": "globalsearch",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Companies.tsx",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_companies_tsx",
+      "target": "companies_module_css",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Companies.tsx",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_companies_tsx",
+      "target": "companies_getavatarcolor",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Companies.tsx",
+      "source_location": "L22",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_companies_tsx",
+      "target": "companies_getcompanyleads",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Companies.tsx",
+      "source_location": "L45",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_companies_tsx",
+      "target": "companies_handlesubmit",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Companies.tsx",
+      "source_location": "L49",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_companies_tsx",
+      "target": "companies_handleedit",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Companies.tsx",
+      "source_location": "L63",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_companies_tsx",
+      "target": "companies_handledeleteclick",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Companies.tsx",
+      "source_location": "L76",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_companies_tsx",
+      "target": "companies_handleconfirmdelete",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Companies.tsx",
+      "source_location": "L80",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_leads_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Leads.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_leads_tsx",
+      "target": "framer_motion",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Leads.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_leads_tsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Leads.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_leads_tsx",
+      "target": "crmcontext",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Leads.tsx",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_leads_tsx",
+      "target": "types",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Leads.tsx",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_leads_tsx",
+      "target": "utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Leads.tsx",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_leads_tsx",
+      "target": "leadmodal",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Leads.tsx",
+      "source_location": "L16",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_leads_tsx",
+      "target": "leads_module_css",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Leads.tsx",
+      "source_location": "L17",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_leads_tsx",
+      "target": "leads_getavatarcolor",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Leads.tsx",
+      "source_location": "L28",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_leads_tsx",
+      "target": "leads_getcompanyname",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Leads.tsx",
+      "source_location": "L54",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_leads_tsx",
+      "target": "leads_handleselectlead",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Leads.tsx",
+      "source_location": "L69",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_leads_tsx",
+      "target": "leads_handleselectall",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Leads.tsx",
+      "source_location": "L79",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_leads_tsx",
+      "target": "leads_handledeleteselected",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Leads.tsx",
+      "source_location": "L87",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_leads_tsx",
+      "target": "leads_handledeletelead",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Leads.tsx",
+      "source_location": "L94",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_leads_tsx",
+      "target": "leads_handleimport",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Leads.tsx",
+      "source_location": "L101",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_leads_tsx",
+      "target": "leads_handlefileupload",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Leads.tsx",
+      "source_location": "L114",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_settings_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Settings.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_settings_tsx",
+      "target": "framer_motion",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Settings.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_settings_tsx",
+      "target": "core",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Settings.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_settings_tsx",
+      "target": "sortable",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Settings.tsx",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_settings_tsx",
+      "target": "utilities",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Settings.tsx",
+      "source_location": "L18",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_settings_tsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Settings.tsx",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_settings_tsx",
+      "target": "crmcontext",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Settings.tsx",
+      "source_location": "L30",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_settings_tsx",
+      "target": "types",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Settings.tsx",
+      "source_location": "L31",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_settings_tsx",
+      "target": "settings_module_css",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Settings.tsx",
+      "source_location": "L32",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_settings_tsx",
+      "target": "settings_handleexportdata",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Settings.tsx",
+      "source_location": "L151",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_settings_tsx",
+      "target": "settings_handlecleardata",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Settings.tsx",
+      "source_location": "L162",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_settings_tsx",
+      "target": "settings_confirmcleardata",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Settings.tsx",
+      "source_location": "L166",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_settings_tsx",
+      "target": "settings_handlesave",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Settings.tsx",
+      "source_location": "L171",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_settings_tsx",
+      "target": "settings_handlestagechange",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Settings.tsx",
+      "source_location": "L177",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_settings_tsx",
+      "target": "settings_handleaddstage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Settings.tsx",
+      "source_location": "L183",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_settings_tsx",
+      "target": "settings_handleremovestage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Settings.tsx",
+      "source_location": "L196",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_settings_tsx",
+      "target": "settings_handlemovestage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Settings.tsx",
+      "source_location": "L202",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_settings_tsx",
+      "target": "settings_handledragend",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Settings.tsx",
+      "source_location": "L216",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_dashboard_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Dashboard.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_dashboard_tsx",
+      "target": "framer_motion",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Dashboard.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_dashboard_tsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Dashboard.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_dashboard_tsx",
+      "target": "react_router_dom",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Dashboard.tsx",
+      "source_location": "L17",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_dashboard_tsx",
+      "target": "crmcontext",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Dashboard.tsx",
+      "source_location": "L18",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_dashboard_tsx",
+      "target": "utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Dashboard.tsx",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_dashboard_tsx",
+      "target": "types",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Dashboard.tsx",
+      "source_location": "L20",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_dashboard_tsx",
+      "target": "dashboard_getavatarcolor",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Dashboard.tsx",
+      "source_location": "L33",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_dashboard_tsx",
+      "target": "modal",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Dashboard.tsx",
+      "source_location": "L37",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_dashboard_tsx",
+      "target": "dashboard_module_css",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Dashboard.tsx",
+      "source_location": "L38",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_dashboard_tsx",
+      "target": "dashboard_getcompanyname",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Dashboard.tsx",
+      "source_location": "L69",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_dashboard_tsx",
+      "target": "dashboard_handleactivityclick",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Dashboard.tsx",
+      "source_location": "L127",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_dashboard_tsx",
+      "target": "dashboard_getactivityicon",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Dashboard.tsx",
+      "source_location": "L137",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_dashboard_tsx",
+      "target": "dashboard_getactivitycolor",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Dashboard.tsx",
+      "source_location": "L148",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_pipeline_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Pipeline.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_pipeline_tsx",
+      "target": "framer_motion",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Pipeline.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_pipeline_tsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Pipeline.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_pipeline_tsx",
+      "target": "crmcontext",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Pipeline.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_pipeline_tsx",
+      "target": "searchcontext",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Pipeline.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_pipeline_tsx",
+      "target": "kanbanboard",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Pipeline.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_pipeline_tsx",
+      "target": "leadmodal",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Pipeline.tsx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_pipeline_tsx",
+      "target": "globalsearch",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Pipeline.tsx",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_pipeline_tsx",
+      "target": "types",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Pipeline.tsx",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_pipeline_tsx",
+      "target": "pipeline_module_css",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Pipeline.tsx",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_pipeline_tsx",
+      "target": "pipeline_getcompanyname",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Pipeline.tsx",
+      "source_location": "L22",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_landing_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Landing.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_landing_tsx",
+      "target": "authcontext",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Landing.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_landing_tsx",
+      "target": "react_router_dom",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Landing.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_contacts_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Contacts.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_contacts_tsx",
+      "target": "framer_motion",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Contacts.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_contacts_tsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Contacts.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_contacts_tsx",
+      "target": "crmcontext",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Contacts.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_contacts_tsx",
+      "target": "types",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Contacts.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_contacts_tsx",
+      "target": "utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Contacts.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_contacts_tsx",
+      "target": "modal",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Contacts.tsx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_contacts_tsx",
+      "target": "deletemodal",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Contacts.tsx",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_contacts_tsx",
+      "target": "contacts_module_css",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Contacts.tsx",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_contacts_tsx",
+      "target": "contacts_getavatarcolor",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Contacts.tsx",
+      "source_location": "L20",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_contacts_tsx",
+      "target": "contacts_getcompanyname",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Contacts.tsx",
+      "source_location": "L44",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_contacts_tsx",
+      "target": "contacts_handlesubmit",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Contacts.tsx",
+      "source_location": "L49",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_contacts_tsx",
+      "target": "contacts_handleedit",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Contacts.tsx",
+      "source_location": "L63",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_contacts_tsx",
+      "target": "contacts_handledeleteclick",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Contacts.tsx",
+      "source_location": "L75",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_contacts_tsx",
+      "target": "contacts_handleconfirmdelete",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Contacts.tsx",
+      "source_location": "L79",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_tasks_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Tasks.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_tasks_tsx",
+      "target": "framer_motion",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Tasks.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_tasks_tsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Tasks.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_tasks_tsx",
+      "target": "crmcontext",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Tasks.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_tasks_tsx",
+      "target": "types",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Tasks.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_tasks_tsx",
+      "target": "utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Tasks.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_tasks_tsx",
+      "target": "modal",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Tasks.tsx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_tasks_tsx",
+      "target": "deletemodal",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Tasks.tsx",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_tasks_tsx",
+      "target": "tasks_module_css",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Tasks.tsx",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_tasks_tsx",
+      "target": "tasks_getleadname",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Tasks.tsx",
+      "source_location": "L34",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_tasks_tsx",
+      "target": "tasks_handlesubmit",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Tasks.tsx",
+      "source_location": "L39",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_tasks_tsx",
+      "target": "tasks_handleedit",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Tasks.tsx",
+      "source_location": "L59",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_tasks_tsx",
+      "target": "tasks_handletogglecomplete",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Tasks.tsx",
+      "source_location": "L71",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_tasks_tsx",
+      "target": "tasks_handledeleteclick",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Tasks.tsx",
+      "source_location": "L75",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_tasks_tsx",
+      "target": "tasks_handleconfirmdelete",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Tasks.tsx",
+      "source_location": "L79",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_tasks_tsx",
+      "target": "tasks_getprioritycolor",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Tasks.tsx",
+      "source_location": "L86",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_reports_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Reports.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_reports_tsx",
+      "target": "framer_motion",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Reports.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_reports_tsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Reports.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_reports_tsx",
+      "target": "crmcontext",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Reports.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_reports_tsx",
+      "target": "utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Reports.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_reports_tsx",
+      "target": "reports_module_css",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Reports.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_reports_tsx",
+      "target": "reports_getavatarcolor",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Reports.tsx",
+      "source_location": "L17",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_reports_tsx",
+      "target": "reports_handleexportpdf",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Reports.tsx",
+      "source_location": "L26",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_login_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Login.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_login_tsx",
+      "target": "authcontext",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Login.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_login_tsx",
+      "target": "react_router_dom",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Login.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_login_tsx",
+      "target": "supabase",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Login.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_login_tsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Login.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_login_tsx",
+      "target": "framer_motion",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Login.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_login_tsx",
+      "target": "login_module_css",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Login.tsx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_pages_login_tsx",
+      "target": "login_login",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/pages/Login.tsx",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_lib_supabase_ts",
+      "target": "supabase_js",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/lib/supabase.ts",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_store_crmcontext_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/store/CRMContext.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_store_crmcontext_tsx",
+      "target": "uuid",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/store/CRMContext.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_store_crmcontext_tsx",
+      "target": "supabase",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/store/CRMContext.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_store_crmcontext_tsx",
+      "target": "authcontext",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/store/CRMContext.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_store_crmcontext_tsx",
+      "target": "types",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/store/CRMContext.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_store_crmcontext_tsx",
+      "target": "crmcontext_tocamelcompany",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/store/CRMContext.tsx",
+      "source_location": "L37",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_store_crmcontext_tsx",
+      "target": "crmcontext_tocamelcontact",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/store/CRMContext.tsx",
+      "source_location": "L38",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_store_crmcontext_tsx",
+      "target": "crmcontext_tocamellead",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/store/CRMContext.tsx",
+      "source_location": "L39",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_store_crmcontext_tsx",
+      "target": "crmcontext_tocameltask",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/store/CRMContext.tsx",
+      "source_location": "L40",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_store_crmcontext_tsx",
+      "target": "crmcontext_tocamelactivity",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/store/CRMContext.tsx",
+      "source_location": "L41",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_store_crmcontext_tsx",
+      "target": "crmcontext_crmprovider",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/store/CRMContext.tsx",
+      "source_location": "L43",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_store_crmcontext_tsx",
+      "target": "crmcontext_usecrm",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/store/CRMContext.tsx",
+      "source_location": "L267",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_store_searchcontext_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/store/SearchContext.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_store_searchcontext_tsx",
+      "target": "crmcontext",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/store/SearchContext.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_store_searchcontext_tsx",
+      "target": "searchcontext_searchprovider",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/store/SearchContext.tsx",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_store_searchcontext_tsx",
+      "target": "searchcontext_fuzzymatch",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/store/SearchContext.tsx",
+      "source_location": "L104",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_store_searchcontext_tsx",
+      "target": "searchcontext_useglobalsearch",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/store/SearchContext.tsx",
+      "source_location": "L118",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_store_authcontext_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/store/AuthContext.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_store_authcontext_tsx",
+      "target": "supabase_js",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/store/AuthContext.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_store_authcontext_tsx",
+      "target": "supabase",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/store/AuthContext.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_store_authcontext_tsx",
+      "target": "authcontext_authprovider",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/store/AuthContext.tsx",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_store_authcontext_tsx",
+      "target": "authcontext_useauth",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/store/AuthContext.tsx",
+      "source_location": "L50",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_utils_index_ts",
+      "target": "types",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/utils/index.ts",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_utils_index_ts",
+      "target": "index_getinitials",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/utils/index.ts",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_utils_index_ts",
+      "target": "index_formatcurrency",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/utils/index.ts",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_utils_index_ts",
+      "target": "index_formatdate",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/utils/index.ts",
+      "source_location": "L21",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_utils_index_ts",
+      "target": "index_getleadsbystage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/utils/index.ts",
+      "source_location": "L34",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_utils_index_ts",
+      "target": "index_gettotalvalue",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/utils/index.ts",
+      "source_location": "L38",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_utils_index_ts",
+      "target": "index_getconversionrate",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/utils/index.ts",
+      "source_location": "L42",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_utils_index_ts",
+      "target": "index_parsecsv",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/utils/index.ts",
+      "source_location": "L48",
+      "weight": 1.0
+    },
+    {
+      "source": "home_abinav_projects_flowcrm_src_utils_index_ts",
+      "target": "index_generateid",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/abinav/Projects/FlowCRM/src/utils/index.ts",
+      "source_location": "L83",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

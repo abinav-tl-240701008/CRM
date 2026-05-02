@@ -1,7 +1,11 @@
 {
   "navigationFallback": {
     "rewrite": "/index.html",
-    "exclude": ["/assets/*", "/vite.svg"]
+    "exclude": [
+      "/assets/*.{css,js,png,jpg,jpeg,svg,ico,woff,woff2,ttf,eot}",
+      "/vite.svg",
+      "/favicon.ico"
+    ]
   },
   "responseOverrides": {
     "404": {
@@ -19,6 +23,14 @@
   "mimeTypes": {
     ".json": "application/json",
     ".js": "application/javascript",
-    ".css": "text/css"
+    ".css": "text/css",
+    ".png": "image/png",
+    ".jpg": "image/jpeg",
+    ".svg": "image/svg+xml",
+    ".ico": "image/x-icon",
+    ".woff": "font/woff",
+    ".woff2": "font/woff2",
+    ".ttf": "font/ttf",
+    ".eot": "application/vnd.ms-fontobject"
   }
 }

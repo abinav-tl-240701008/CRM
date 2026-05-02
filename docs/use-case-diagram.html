@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FlowCRM - UML Use Case Diagram</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: #0f172a;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 100vh;
+    padding: 40px 20px;
+    font-family: system-ui, sans-serif;
+  }
+  .container {
+    background: #1e293b;
+    border-radius: 16px;
+    padding: 32px;
+    box-shadow: 0 25px 60px rgba(0,0,0,0.4);
+    max-width: 1200px;
+    width: 100%;
+  }
+  h1 {
+    color: #e2e8f0;
+    text-align: center;
+    margin-bottom: 8px;
+    font-size: 1.5rem;
+    font-weight: 600;
+  }
+  .subtitle {
+    color: #64748b;
+    text-align: center;
+    margin-bottom: 24px;
+    font-size: 0.85rem;
+  }
+  .mermaid {
+    display: flex;
+    justify-content: center;
+  }
+  .mermaid svg {
+    max-width: 100%;
+    height: auto;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>FlowCRM &mdash; UML Use Case Diagram</h1>
+  <p class="subtitle">Actors (stick figures) and their interactions with the system</p>
+  <div class="mermaid">
+useCaseDiagram
+    actor "Sales Rep" as rep
+    actor "Manager" as mgr
+    actor "Admin" as admin
+
+    package "FlowCRM" {
+        usecase "Login /\nAuthenticate" as UC1
+        usecase "View Dashboard" as UC2
+        usecase "Manage Leads" as UC3
+        usecase "Manage Companies" as UC4
+        usecase "Manage Contacts" as UC5
+        usecase "Manage Tasks" as UC6
+        usecase "View Pipeline\n(Kanban Board)" as UC7
+        usecase "Drag &amp; Drop\nDeals" as UC8
+        usecase "View Reports &amp;\nAnalytics" as UC9
+        usecase "Global Search" as UC10
+        usecase "Configure\nSettings" as UC11
+        usecase "Create / Edit\nLead" as UC12
+        usecase "Delete Record" as UC13
+        usecase "View Landing\nPage" as UC14
+    }
+
+    rep --> UC1
+    rep --> UC2
+    rep --> UC3
+    rep --> UC4
+    rep --> UC5
+    rep --> UC6
+    rep --> UC7
+    rep --> UC10
+
+    mgr --> UC1
+    mgr --> UC2
+    mgr --> UC3
+    mgr --> UC4
+    mgr --> UC5
+    mgr --> UC6
+    mgr --> UC7
+    mgr --> UC9
+    mgr --> UC10
+
+    admin --> UC1
+    admin --> UC2
+    admin --> UC3
+    admin --> UC4
+    admin --> UC5
+    admin --> UC6
+    admin --> UC7
+    admin --> UC9
+    admin --> UC10
+    admin --> UC11
+
+    UC3 ..> UC12 : <<include>>
+    UC7 ..> UC8 : <<extend>>
+    UC3 ..> UC13 : <<extend>>
+    UC4 ..> UC13 : <<extend>>
+    UC5 ..> UC13 : <<extend>>
+    UC6 ..> UC13 : <<extend>>
+  </div>
+</div>
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({
+    startOnLoad: true,
+    theme: 'dark',
+    useCase: {
+      diagramPadding: 16,
+      nodeSpacing: 30,
+    }
+  });
+</script>
+</body>
+</html>

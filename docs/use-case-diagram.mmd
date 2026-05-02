@@ -1,0 +1,61 @@
+```mermaid
+%%{init: {'theme': 'neutral'}}%%
+useCaseDiagram
+    actor "Sales Rep" as rep
+    actor "Manager" as mgr
+    actor "Admin" as admin
+
+    package "FlowCRM" {
+        usecase "Login /\nAuthenticate" as UC1
+        usecase "View Dashboard" as UC2
+        usecase "Manage Leads" as UC3
+        usecase "Manage Companies" as UC4
+        usecase "Manage Contacts" as UC5
+        usecase "Manage Tasks" as UC6
+        usecase "View Pipeline\n(Kanban Board)" as UC7
+        usecase "Drag & Drop\nDeals" as UC8
+        usecase "View Reports &\nAnalytics" as UC9
+        usecase "Global Search" as UC10
+        usecase "Configure\nSettings" as UC11
+        usecase "Create / Edit\nLead" as UC12
+        usecase "Delete Record" as UC13
+        usecase "View Landing\nPage" as UC14
+    }
+
+    rep --> UC1
+    rep --> UC2
+    rep --> UC3
+    rep --> UC4
+    rep --> UC5
+    rep --> UC6
+    rep --> UC7
+    rep --> UC10
+
+    mgr --> UC1
+    mgr --> UC2
+    mgr --> UC3
+    mgr --> UC4
+    mgr --> UC5
+    mgr --> UC6
+    mgr --> UC7
+    mgr --> UC9
+    mgr --> UC10
+
+    admin --> UC1
+    admin --> UC2
+    admin --> UC3
+    admin --> UC4
+    admin --> UC5
+    admin --> UC6
+    admin --> UC7
+    admin --> UC9
+    admin --> UC10
+    admin --> UC11
+
+    UC3 ..> UC12 : <<include>>
+    UC7 ..> UC8 : <<extend>>
+    UC3 ..> UC13 : <<extend>>
+    UC4 ..> UC13 : <<extend>>
+    UC5 ..> UC13 : <<extend>>
+    UC6 ..> UC13 : <<extend>>
+```
