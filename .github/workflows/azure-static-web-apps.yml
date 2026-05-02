@@ -34,17 +34,13 @@ jobs:
           VITE_APP_TITLE: FlowCRM
           VITE_APP_VERSION: ${{ github.sha }}
 
-      # 👇 CLEANUP STEP: Remove source maps & excess files to avoid "too many files" error
-      - name: Clean dist for Azure
+      # 👇 DEBUG: Show what we're deploying
+      - name: Debug dist folder
         run: |
-          echo "🧹 Cleaning dist folder for Azure deployment..."
-          # Remove source maps (reduce file count)
-          find dist -name "*.map" -delete 2>/dev/null || true
-          # Remove any nested folders that shouldn't be deployed
-          rm -rf dist/graphify-out dist/.git dist/node_modules 2>/dev/null || true
-          # Show final file count
-          echo "📦 Files to deploy: $(find dist -type f | wc -l)"
-          find dist -type f -exec ls -lh {} \;
+          echo "📁 Files in dist/:"
+          find dist -type f | head -50
+          echo "📊 Total files: $(find dist -type f | wc -l)"
+          echo "📦 Total size: $(du -sh dist | cut -f1)"
 
       - name: Deploy to Azure Static Web Apps
         uses: Azure/static-web-apps-deploy@v1
@@ -52,8 +48,11 @@ jobs:
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN }}
           repo_token: ${{ github.token }}
           action: "upload"
-          app_location: "/"
-          output_location: "dist"
+          
+          # 👇 KEY FIX: Only upload the built dist folder
+          app_location: "dist"
+          output_location: "."
+          
           skip_app_build: true
           config_file_location: "/"
 
