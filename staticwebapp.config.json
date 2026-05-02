@@ -12,7 +12,7 @@
   "responseOverrides": {
     "404": {
       "rewrite": "/landing/index.html",
-      "statusCode": 200
+      "statusCode": 404
     }
   },
   "globalHeaders": {
