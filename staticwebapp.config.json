@@ -3,6 +3,7 @@
     "rewrite": "/",
     "exclude": [
       "/assets/*",
+      "/landing/*", 
       "/vite.svg",
       "/favicon.ico",
       "/landing/*"
